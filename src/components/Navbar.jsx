@@ -8,6 +8,8 @@ import { useRef } from "react";
 import { useEffect, useState } from "react";
 import { logout } from "../firebase";
 
+
+
 function Navbar() {
   const navRef = useRef();
 
